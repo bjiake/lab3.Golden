@@ -70,7 +70,7 @@ namespace lab3 {
                         return i;
                     }
                 }
-
+                //1
                 if(Math.Abs(gRightBorder - gLeftBorder) < e) {
                     return ( gLeftBorder + gRightBorder ) / 2;
                 }
